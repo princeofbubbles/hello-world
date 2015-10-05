@@ -1,6 +1,5 @@
 <?php
 /* Name: prunce_my_oase
-/* @var prunce 
 */
 
 class Prunce
