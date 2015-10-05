@@ -7,7 +7,7 @@ class Prunce
 {
   public function __construct()
   {
-      echo 'Prunce my Oase!<br />';
+      echo 'Prunce my Oase!<br>';
   }
  
 } // end class prunce
